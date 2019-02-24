@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-client/spring-cloud-config-client.iml" filepath="$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-client/spring-cloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-git/spring-cloud-config-server/spring-cloud-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrix/spring-cloud-consumer-hystrix/spring-cloud-consumer-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-hystrix/spring-cloud-consumer-hystrix/spring-cloud-consumer-hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-demo-master.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-demo-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka/spring-cloud-eureka.iml" />
